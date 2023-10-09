@@ -1,2 +1,3 @@
 # gram
-text editor
+text editor 
+incomplete work
