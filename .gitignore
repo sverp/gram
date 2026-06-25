@@ -1,0 +1,6 @@
+# Compiled binaries
+search_app
+*.o
+
+# Large data files
+simplewiki_embeddings.json
